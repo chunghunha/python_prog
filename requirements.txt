@@ -1,1 +1,1 @@
-maplotlib
+matplotlib
